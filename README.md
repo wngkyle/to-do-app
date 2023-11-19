@@ -9,6 +9,7 @@
 
 ### Built With
 - React Native
+- Javascript
 - CSS
 - Expo
 
